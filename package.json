@@ -1,0 +1,25 @@
+{
+  "name": "ys-jweixin",
+  "version": "1.0.0",
+  "description": "企业微信JS-SDK",
+  "main": "jweixin-1.2.0.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanshishi/ys-jweixin.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "ys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanshishi/ys-jweixin/issues"
+  },
+  "homepage": "https://github.com/yuanshishi/ys-jweixin#readme"
+}
